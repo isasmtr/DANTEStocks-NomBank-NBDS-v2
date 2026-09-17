@@ -1,0 +1,50 @@
+RELATÓRIO V1 -> V2 — SOMENTE MODIFICADORES (ArgM-*)
+========================================================
+
+--- DANTESdev (conllu plus) (2).conllu <-> DANTESdev_ATUALIZADO_CORRIGIDO.conllu ---
+  Sentenças V1: 501 | V2: 501
+  Modificadores V1: 20 | V2: 91
+  Diferenças fora da coluna semântica: 0
+  Tipos de modificador (V1 -> V2):
+    ARGM-ADV       3 ->    6
+    ARGM-EXT       2 ->    3
+    ARGM-LOC       1 ->    1
+    ARGM-MNR       4 ->    8
+    ARGM-NEG       1 ->    1
+    ARGM-PNC       0 ->    1
+    ARGM-REF       1 ->    1
+    ARGM-TMP       8 ->   70
+
+
+
+--- DANTEStest (conllu plus) (2).conllu <-> DANTEStest_ATUALIZADO_CORRIGIDO.conllu ---
+  Sentenças V1: 501 | V2: 501
+  Modificadores V1: 19 | V2: 76
+  Diferenças fora da coluna semântica: 0
+  Tipos de modificador (V1 -> V2):
+    ARGM-ADV       6 ->    6
+    ARGM-CAU       0 ->    1
+    ARGM-EXT       2 ->    1
+    ARGM-MNR       2 ->    4
+    ARGM-TMP       9 ->   64
+
+
+
+--- DANTEStrain (conllu plus) (2).conllu <-> DANTEStrain_ATUALIZADO_CORRIGIDO.conllu ---
+  Sentenças V1: 3040 | V2: 3040
+  Modificadores V1: 104 | V2: 461
+  Diferenças fora da coluna semântica: 0
+  Tipos de modificador (V1 -> V2):
+    ARGM-ADV      23 ->   35
+    ARGM-ADV (SRC)    0 ->    2
+    ARGM-AV        1 ->    0
+    ARGM-CAU       2 ->   10
+    ARGM-EXT      19 ->   20
+    ARGM-LOC       6 ->   17
+    ARGM-MNR      11 ->   37
+    ARGM-NEG       3 ->    6
+    ARGM-PNC       2 ->   10
+    ARGM-TMP      37 ->  324
+
+
+Arquivos pareados: 6/6
