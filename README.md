@@ -21,9 +21,9 @@ O repositório contém uma única pasta, corpus anotado, que reúne os arquivos 
 
 Contém o corpus DANTEStocks-NounBank v2 dividido em conjuntos de treino, desenvolvimento e teste:
 
-DANTEStocks_NBDSv2train.conllup — conjunto de treinamento;
-DANTEStocks_NBDSv2dev.conllup — conjunto de desenvolvimento;
-DANTEStocks_NBDSv2test.conllup — conjunto de teste.
+- DANTEStocks_NBDSv2train.conllup — conjunto de treinamento;
+- DANTEStocks_NBDSv2dev.conllup — conjunto de desenvolvimento;
+- DANTEStocks_NBDSv2test.conllup — conjunto de teste.
 
 Os arquivos estão no formato CoNLL-U Plus e apresentam a anotação semântica nas colunas NBDS e NBDS.
 
