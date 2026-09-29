@@ -15,11 +15,17 @@ MONTEIRO, I. de S.; DI-FELIPPO, A. Anotação de papéis semânticos no corpus D
 
 **Estrutura dos conteúdos deste repositório:**
 
-**Data**
+O repositório contém uma única pasta, corpus anotado, que reúne os arquivos finais do DANTEStocks-NounBank v2 (DSNB-v2).
 
-Contém:
+**corpus anotado**
 
-* O corpus **DANTEStocks-NounBank v2 (DSNB-v2)** (isto é, com anotação semântica codificada nas duas últimas colunas do formato CoNLL-U Plus: NBDS:ROLESET e NBDS:ARG) dividido em treino, desenvolvimento e teste (arquivos .conllup).
+Contém o corpus DANTEStocks-NounBank v2 dividido em conjuntos de treino, desenvolvimento e teste:
+
+DANTEStocks_NBDSv2train.conllup — conjunto de treinamento;
+DANTEStocks_NBDSv2dev.conllup — conjunto de desenvolvimento;
+DANTEStocks_NBDSv2test.conllup — conjunto de teste.
+
+Os arquivos estão no formato CoNLL-U Plus e apresentam a anotação semântica nas colunas NBDS e NBDS.
 
 **Financiamento**
 
